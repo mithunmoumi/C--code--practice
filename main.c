@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    //my personal information.
     printf("Name:jannatul ferdous\n");
      printf("Father Name:zillur rahman\n"); 
      printf("Mother Name:Hurena akter\n");
