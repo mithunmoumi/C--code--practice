@@ -7,7 +7,7 @@ int main(){
 printf("Enter celsius tempure:");
 scanf("%f",&c);
 f=(c*9/5)+32;
-printf("%f celsius to fahraniat is=%.2f",c,f);*/
+printf("%f celsius to fahraniat is=%.2f",c,f);*/////thi
 
 // fahraniat to celsisus
 
